@@ -1,0 +1,29 @@
+{
+    "name": "carpfish/yii2-pace",
+    "description": "Yii2 Pace",
+    "keywords": ["yii2", "carpfish", "pace"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "minimum-stability" : "dev",
+    "prefer-stable": true,
+    "support": {
+        "source": "https://github.com/carpfish/yii2-pace"
+    },
+    "authors": [
+        {
+            "name": "carpfish",
+            "email": "carpfish@fishome.org",
+            "homepage": "http://fishome.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*",
+        "bower-asset/pace": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "carpfish\\pace\\": ""
+        }
+    }
+}
