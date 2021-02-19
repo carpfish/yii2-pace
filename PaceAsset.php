@@ -6,7 +6,7 @@
  * Time: 11:15
  */
 
-namespace phpnt\pace;
+namespace carpfish\pace;
 
 use yii\web\AssetBundle;
 
@@ -35,7 +35,7 @@ class PaceAsset extends AssetBundle
     ];
 
     public $depends = [
-        'phpnt\pace\PaceCssAsset',
+        'carpfish\pace\PaceCssAsset',
     ];
 
     public function init()

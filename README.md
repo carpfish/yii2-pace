@@ -1,6 +1,7 @@
 Carpfish - Yii2 Pace
 ================================
 [![Latest Stable Version](https://poser.pugx.org/carpfish/yii2-pace/v/stable)](https://packagist.org/packages/carpfish/yii2-pace) [![Total Downloads](https://poser.pugx.org/carpfish/yii2-pace/downloads)](https://packagist.org/packages/carpfish/yii2-pace) [![Latest Unstable Version](https://poser.pugx.org/carpfish/yii2-pace/v/unstable)](https://packagist.org/packages/carpfish/yii2-pace) [![License](https://poser.pugx.org/carpfish/yii2-pace/license)](https://packagist.org/packages/carpfish/yii2-pace)
+
 #说明：
 #页面加载进度指示器。
 

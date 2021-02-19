@@ -6,7 +6,7 @@
  * Time: 11:15
  */
 
-namespace phpnt\pace;
+namespace carpfish\pace;
 
 
 use yii\web\AssetBundle;
@@ -19,7 +19,7 @@ class PaceCssAsset extends AssetBundle
     /**
      * @inherit
      */
-    public $sourcePath = '@phpnt/pace';
+    public $sourcePath = '@carpfish/pace';
 
     /**
      * @inherit
